@@ -1,5 +1,5 @@
-git add는 파일을 git이 관리하게 해준다. add 파일명 도 되고, add . 으로 전체도 된다. git commit은 저장하는 것이다. -m 내용 으로 한다. git push는 github과 같은 곳에 업로드하는 것이다.
-
+git add는 파일을 git이 관리하게 해준다. add 파일명 도 되고, add . 으로 전체도 된다.
+git commit은 저장하는 것이다. -m 내용 으로 한다. git push는 github과 같은 곳에 업로드하는 것이다.
 git pull은 원격 저장소의 내용을 불러오는 것이다. git fetch는 원격 저장소에서 불러올 것을 확인하는 역할을 한다. fetch+merge=pull 이라 볼 수 있다. (merge=병합)
 
 
